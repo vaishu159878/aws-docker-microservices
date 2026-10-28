@@ -198,7 +198,7 @@ These issues helped me practise reading Docker logs, identifying configuration e
 - [x] Created Docker Compose configuration
 - [x] Fixed the NGINX configuration error
 - [x] Verified the health and service routes from inside NGINX
-- [ ] Complete local endpoint testing from Windows
+- [x] Complete local endpoint testing from Windows
 - [ ] Deploy the project on AWS EC2
 - [ ] Configure AWS Security Groups
 - [ ] Test the deployed application
